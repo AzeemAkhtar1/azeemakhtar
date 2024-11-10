@@ -1,6 +1,3 @@
-Here’s a sample README file for your portfolio. This README is structured to give an overview, showcase features, explain the setup process, and give a short preview of your portfolio's functionality.
-
----
 
 # Portfolio Website
 

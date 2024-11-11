@@ -131,7 +131,6 @@ body {
   margin-bottom: 8px;
 }
 
-
 .details-heading {
   font-size: 2rem;
   color: var(--primary-accent);
@@ -146,4 +145,33 @@ body {
   color: var(--text-secondary);
   text-align: justify;
   padding-right: 10px;
+}
+
+/* **Updated CSS for smaller screens** */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .project-sidebar {
+    flex-basis: 100%;
+    border-right: none;
+    padding-right: 0;
+  }
+
+  .project-details {
+    flex-basis: 100%;
+    padding-left: 0;
+  }
+
+  .details-heading{
+    padding-top: 15%;
+  }
+
+  /* Ensuring all sections are displayed on mobile screens */
+  .project-description, .features-heading, .project-features {
+    display: block;
+  }
 }

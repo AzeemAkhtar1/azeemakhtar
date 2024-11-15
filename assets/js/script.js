@@ -10,7 +10,7 @@ const projects = [
   {
     title: "Udemy Clone with API integration",
     category: "web development",
-    imgSrc: "./assets/images/project-1.jpg",
+    imgSrc: "./assets/images/project1-udemy.png",
     overview: "This project is a Udemy clone built with Vue 3, implementing core functionalities of the original Udemy platform while also introducing additional features. It provides a seamless experience for both students and administrators, including course purchases, article publishing, and more.",
     liveLink: "https://udemy-clone-woad.vercel.app/dashboard",
     githubLink: "https://github.com/AzeemAkhtar1/udemy-clone",
@@ -27,7 +27,7 @@ const projects = [
   {
     title: "Daraz Ecommerce Store Clone with Payment Integration",
     category: "web development",
-    imgSrc: "./assets/images/project-1.jpg",
+    imgSrc: "./assets/images/project2-daraz.png",
     overview: "This project is a functional clone of the popular e-commerce platform Daraz, featuring seamless payment integration. It allows users to browse through a variety of products, filter and search for specific items, and securely complete their purchases.",
     liveLink: "daraz-ecommerce-store.vercel.app",
     githubLink: "https://github.com/AzeemAkhtar1/Daraz-Ecommerce-Store",
@@ -42,7 +42,7 @@ const projects = [
   {
     title: "Appliances Online Clone - Replicating an E-commerce Platform",
     category: "web development",
-    imgSrc: "./assets/images/project-3.jpg",
+    imgSrc: "./assets/images/project3-appliancesonline.png",
     overview: "This project is a comprehensive clone of the renowned Appliances Online e-commerce platform. It showcases my ability to replicate a complex and feature-rich website, including its design, functionality, and user experience.",
     liveLink: "https://appliances-online-clone.vercel.app/",
     githubLink: "https://github.com/AzeemAkhtar1/appliances-online-clone",
@@ -53,55 +53,6 @@ const projects = [
       "User-Friendly Navigation: Ensured easy navigation through intuitive menus and clear call-to-action buttons.",
     ],
   },
-  {
-    title: "Brawlhalla",
-    category: "applications",
-    imgSrc: "./assets/images/project-4.png",
-    imgAlt: "brawlhalla",
-    overview: "Clone of Daraz store with payment integration.",
-    liveLink: "https://example.com/daraz-clone",
-    githubLink: "https://github.com/username/daraz-clone"
-  },
-  {
-    title: "DSM.",
-    category: "web design",
-    imgSrc: "./assets/images/project-5.png",
-    overview: "Clone of Daraz store with payment integration.",
-    liveLink: "https://example.com/daraz-clone",
-    githubLink: "https://github.com/username/daraz-clone"
-  },
-  {
-    title: "MetaSpark",
-    category: "web design",
-    imgSrc: "./assets/images/project-6.png",
-    overview: "Clone of Daraz store with payment integration.",
-    liveLink: "https://example.com/daraz-clone",
-    githubLink: "https://github.com/username/daraz-clone"
-  },
-  {
-    title: "Summary",
-    category: "web development",
-    imgSrc: "./assets/images/project-7.png",
-    overview: "Clone of Daraz store with payment integration.",
-    liveLink: "https://example.com/daraz-clone",
-    githubLink: "https://github.com/username/daraz-clone"
-  },
-  {
-    title: "Task Manager",
-    category: "applications",
-    imgSrc: "./assets/images/project-8.jpg",
-    overview: "Clone of Daraz store with payment integration.",
-    liveLink: "https://example.com/daraz-clone",
-    githubLink: "https://github.com/username/daraz-clone"
-  },
-  {
-    title: "Arrival",
-    category: "web development",
-    imgSrc: "./assets/images/project-9.png",
-    overview: "Clone of Daraz store with payment integration.",
-    liveLink: "https://example.com/daraz-clone",
-    githubLink: "https://github.com/username/daraz-clone"
-  }
 ];
 
 

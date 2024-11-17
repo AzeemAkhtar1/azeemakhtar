@@ -15,6 +15,19 @@
   #CUSTOM PROPERTY
 \*-----------------------------------*/
 
+/* Prevent horizontal scrolling */
+html, body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+/* Box-sizing for consistent sizing */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
 :root {
 
   /**

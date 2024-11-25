@@ -29,7 +29,7 @@ const projects = [
     category: "web development",
     imgSrc: "./assets/images/project2-daraz.png",
     overview: "This project is a functional clone of the popular e-commerce platform Daraz, featuring seamless payment integration. It allows users to browse through a variety of products, filter and search for specific items, and securely complete their purchases.",
-    liveLink: "daraz-ecommerce-store.vercel.app",
+    liveLink: "https://daraz-ecommerce-store.vercel.app/",
     githubLink: "https://github.com/AzeemAkhtar1/Daraz-Ecommerce-Store",
     features: [
       "Responsive Design: Optimized for seamless viewing on all devices.",
